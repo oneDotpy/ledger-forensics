@@ -1,0 +1,10 @@
+duckdb==2.0.0
+pandas==3.1.1
+numpy==2.4.6
+Faker==40.52.0
+scipy==1.17.1
+scikit-learn==1.9.1
+openpyxl==3.1.5
+streamlit==1.67.0
+altair==6.3.0
+pytest==9.2.0
